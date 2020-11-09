@@ -1,9 +1,10 @@
 html-cgi
 ========
 
-This package provides support for CGI programming in the HTML library.
+This package provides support for CGI programming when
+the HTML library of package `html` is used.
 It contains the library `HTML.CGI` which is an auxiliary library
-to implement danmic web pages with the library `HTML.Base`.
+to implement dynamic web pages with the library `HTML.Base`.
 
 As a prerequisite to execute dynamic web pages, the installation
 of the Curry Port Name Server (CPNS) and the HTML/CGI registry
