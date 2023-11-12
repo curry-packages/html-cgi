@@ -20,7 +20,7 @@
         "main": "HTML.CGI.Registry"
     },
     "source": {
-      "git": "https://git.ps.informatik.uni-kiel.de/curry-packages/html-cgi.git",
+      "git": "https://github.com/curry-packages/html-cgi.git",
       "tag": "$version"
     }
 }
